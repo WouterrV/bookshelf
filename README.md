@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"><a href="https://epicreact.dev/app">Build an Epic React App 🚀 EpicReact.Dev</a></h1>
   <strong>
-    Building a full React application
+    Building a full React application for a bookshelf
   </strong>
   <p>
     The React and JavaScript ecosystem is full of tools and libraries to help
